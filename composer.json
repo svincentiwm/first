@@ -1,5 +1,5 @@
 {
     "require": {
-        "svincentiwm/first"
+        "svincentiwm/first":"*"
     }
 }
